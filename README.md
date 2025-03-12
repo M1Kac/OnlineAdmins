@@ -25,7 +25,7 @@ Configuration file generated on addons/counterstrikesharp/configs/plugins/Online
 ```json
 {
   "AdminFlag": "css/generic", // Admin flag
-  "Time": 10.0f, // 10 seconds hud duration
+  "Time": 10, // 10 seconds hud duration
   "HudColor": "White",
   "ConfigVersion": 1
 }
