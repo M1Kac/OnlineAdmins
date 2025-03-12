@@ -24,8 +24,8 @@ Displays a list of online admins on the screen.
 Configuration file generated on addons/counterstrikesharp/configs/plugins/OnlineAdmins/OnlineAdmins.json
 ```json
 {
-  "AdminFlag": "css/generic",
-  "ShowAllTime": false,
+  "AdminFlag": "css/generic", // Admin flag
+  "Time": 10.0f, // 10 seconds hud duration
   "HudColor": "White",
   "ConfigVersion": 1
 }
